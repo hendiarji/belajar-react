@@ -1,7 +1,7 @@
 import React from "react";
 
 class ClassComponent extends React.Component {
-  rende() {
+  render() {
     return (
       <div>
         <h1>Hello World</h1>
